@@ -3,6 +3,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
         <header>
           <h1>Olá, Tabnews</h1>
+          <p>Um projeto de estudo...</p>
         </header>
     </main>
   )
